@@ -148,8 +148,7 @@ Erhebt sich der Vorsitzende oder läutet er mit einer Glocke, so hat der Redner
 * b) Anträge von Ausschüssen, über sie ist vor allen anderen Anträgen zum gleichen
 * Sitzungsgegenstand abzustimmen,
 * c) weitergehende Anträge; als weitergehend sind solche Anträge anzusehen, die einen größeren Aufwand erfordern oder eine einschneidendere Maßnahme zum Gegenstand haben,
-* d) früher gestellte Anträge vor später gestellten, sofern der spätere Antrag nicht unter
-* Buchstaben a) bis c) fällt. Im Zweifelsfall entscheidet der Vorsitzende des Gemeinderates.
+* d) früher gestellte Anträge vor später gestellten, sofern der spätere Antrag nicht unter Buchstaben a) bis c) fällt. Im Zweifelsfall entscheidet der Vorsitzende des Gemeinderates.
 
 (4) Vor jeder Abstimmung hat der Vorsitzende des Gemeinderates die Frage, über die abgestimmt werden soll, so zu formulieren, dass sie mit Ja oder Nein beantwortet werden kann.
 
