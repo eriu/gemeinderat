@@ -71,10 +71,8 @@ Der Gemeinderat hat in seiner Sitzung am 26. Januar 2010 folgende Geschäftsord
 * g) Anregungen und Beantwortung von Anfragen
 * h) Schließung der Sitzung
 * i) Nichtöffentliche Sitzung,
-* l) Beratung und Beschlussfassung über die in der Tagesordnung bezeichneten
-* Verhandlungsgegenstände, die in nichtöffentlicher Sitzung zu behandeln sind,
-* m) Bericht des Bürgermeisters über wichtige Angelegenheiten und Eilentscheidungen,
-* die in nichtöffentlicher Sitzung zu behandeln sind,
+* l) Beratung und Beschlussfassung über die in der Tagesordnung bezeichneten Verhandlungsgegenstände, die in nichtöffentlicher Sitzung zu behandeln sind,
+* m) Bericht des Bürgermeisters über wichtige Angelegenheiten und Eilentscheidungen,die in nichtöffentlicher Sitzung zu behandeln sind,
 * n) Beantwortung von Anfragen, die in nichtöffentlicher Sitzung zu behandeln sind,
 * o) Bekanntgabe der Ergebnisse der nichtöffentlichen Sitzung,
 * p) Schließen der Sitzung.
