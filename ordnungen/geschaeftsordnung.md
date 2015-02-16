@@ -309,8 +309,9 @@ Bei Zweifeln über Auslegung und Anwendung der Geschäftsordnung entscheidet d
 Von den Vorschriften dieser Geschäftsordnung kann nur im Einzelfall und nur dann abgewichen werden, wenn gesetzliche Bestimmungen nicht entgegenstehen und kein Mitglied des Gemeinderates widerspricht.
 
 ###§24 Sprachliche Gleichstellung
-Personen- und Funktionsbezeichnungen gelten jeweils in weiblicher und männlicher Form. §25
-Inkrafttreten
+Personen- und Funktionsbezeichnungen gelten jeweils in weiblicher und männlicher Form.
+
+###§25 Inkrafttreten
 
 Die Geschäftsordnung tritt mit Wirkung vom 26.01.2010 in Kraft.
 Möser, den 27.01.2010
