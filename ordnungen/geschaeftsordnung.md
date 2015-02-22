@@ -1,318 +1,357 @@
 #Geschäftsordnung für den Gemeinderat und seine Ausschüsse der Gemeinde Möser
 
-Der Gemeinderat hat in seiner Sitzung am 26. Januar 2010 folgende Geschäftsordnung für den Gemeinderat und seine Ausschüsse erlassen:
-
+Der Gemeinderat der Gemeinde Möser hat gemäß § 59 Kommunalverfassungsgesetz Sachsen-Anhalt (KVG LSA) vom 17.06.2014, GVBl. LSA S. 288 in seiner Sitzung am 01. Juli 2014 folgende Geschäftsordnung für den Gemeinderat und seine Ausschüsse beschlossen:
 
 ##I. Abschnitt Sitzungen des Gemeinderates
 
 ###§1 Einberufung, Einladung, Teilnahme
 
-(1) Der Vorsitzende des Gemeinderates beruft im Einvernehmen mit dem Bürgermeister den Gemeinderat ein. Er bestimmt Ort und Zeitpunkt des Zusammentritts. Die Tagesordnung ist der Einladung beizufügen. Sie muss über die anstehenden Beratungspunkte hinreichend Aufschluss geben. Soweit diese nach der Geschäftsordnung im nichtöffentlichen Teil der Sitzung zu behandeln sind, sind sie in der Tagesordnung entsprechend zu kennzeichnen.
+(1) Der Vorsitzende des Gemeinderates beruft im Einvernehmen mit dem Bürgermeister schriftlich oder elektronisch unter Mitteilung der Tagesordnung und Angabe von Ort und Zeitpunkt der Sitzung ein. Sie muss über die anstehenden Beratungspunkte hinreichend Aufschluss geben. Soweit diese nach der Geschäftsordnung im nichtöffentlichen Teil der Sitzung zu behandeln sind, sind sie in der Tagesordnung entsprechend zu kennzeichnen.
 
-(2) Sollen Satzungen, Verordnungen, Tarife und Verträge behandelt werden, sollen diese als Entwürfe vollständig oder, soweit dies wegen des Umfanges nicht sinnvoll ist, auszugsweise die für das Verständnis notwendigen Teile oder Zusammenfassungen der Einladung beigefügt werden. Im letzteren Fall sind die vollständigen Unterlagen beim Bürgermeister einsehbar. Den Gemeinderäten sind die Unterlagen möglichst als Text- oder PDF-Datei per E-Mail zu übergeben, Unterlagen sind gemäß GO LSA grundsätzlich beizufügen. Ausnahmen regelt das Gesetz.
+(2) Der Einladung sind die für die Verhandlung erforderlichen Unterlagen grundsätzlich beizufügen. Für jeden Tagesordnungspunkt soll ein Bericht und ggf. ein Beschlussvorschlag (Vorlage) des Bürgermeisters beigefügt werden, aus dem - soweit möglich - auch die Beschlüsse der beteiligten Ausschüsse ersichtlich sind. Liegen besondere Gründe vor, kann der Bericht ausnahmsweise nachgereicht werden. 
 
-(3) Die Einladung hat so rechtzeitig wie möglich zu erfolgen, mindestens jedoch unter Einhaltung einer Frist von einer Woche. In dringenden Fällen kann die Ladungsfrist auf drei Tage verkürzt werden. Die Frist gilt als gewahrt, wenn die Ladungen zu ordentlichen Sitzungen spätestens am 9. Tage, zu außerordentlichen Sitzungen spätestens am 5. Tage vor der Sitzung zur Post gegeben oder den Mitgliedern des Gemeinderates spätestens am 8. bzw. 4. Tage vor der Sitzung ausgehändigt worden sind. Dies gilt nicht, wenn eine Sitzung des Gemeinderates vor Erledigung der Tagesordnung abgebrochen werden muss. In diesem Fall kann die Sitzung zur Erledigung der restlichen Tagesordnungspunkte an einem der nächsten Tage fortgesetzt werden. Eine erneute schriftliche Ladung sowie die Einhaltung einer Frist sind nicht erforderlich. Die in der Sitzung nicht anwesenden Gemeinderäte sind von dem neuen Termin unverzüglich zu unterrichten.
+(3) Die Einladung hat so rechtzeitig wie möglich zu erfolgen, mindestens jedoch unter Einhaltung einer Frist von einer Woche. In dringenden Fällen kann die Ladungsfrist auf drei Tage verkürzt werden. Die Frist gilt als gewahrt, wenn die Ladungen zu ordentlichen Sitzungen spätestens am 9. Tage, zu außerordentlichen Sitzungen spätestens am 5. Tage vor der Sitzung zur Post gegeben oder den Mitgliedern des Gemeinderates spätestens am 8. bzw. 4. Tage vor der Sitzung ausgehändigt worden sind. Dies gilt nicht, wenn eine Sitzung des Gemeinderates noch vor Erledigung der Tagesordnung abgebrochen werden muss (§ 13 Abs. 5). In diesem Fall kann die Sitzung zur Eröffnung der restlichen Tagesordnungspunkte an einem der nächsten Tage fortgesetzt werden. Eine erneute schriftliche Ladung sowie die Einhaltung einer Frist sind nicht erforderlich. Die in der Sitzung nicht anwesenden Gemeinderäte sind von dem neuen Termin unverzüglich zu unterrichten.
 
-(4) Die Einladung hat schriftlich zu erfolgen. Einladung und Sitzungsunterlagen des öffentlichen Teils können ausschließlich elektronisch zur Verfügung gestellt werden, wenn das schriftliche Einverständnis des jeweiligen Gemeinderates vorliegt. Dieses Einverständnis kann jederzeit schriftlich widerrufen werden.
+(4) Wer nicht oder nicht rechtzeitig an einer Sitzung teilnehmen kann oder die Sitzung vorzeitig verlassen muss, zeigt dies dem Vorsitzenden des Gemeinderates vor der Sitzung an.
 
-(5) Wer nicht oder nicht rechtzeitig an den Sitzungen teilnehmen kann, soll dies dem Vorsitzenden des Gemeinderates vor der Sitzung anzeigen. Wer eine Sitzung vorzeitig verlässt, unterrichtet möglichst frühzeitig den Vorsitzenden des Gemeinderates.
+(5) Der Gemeinderat ist einzuberufen, so oft es die Geschäftslage erfordert. Der Gemeinderat ist unverzüglich einzuberufen, wenn es ein Viertel seiner Mitglieder oder der Bürgermeister unter Angabe des Beratungsgegenstandes beantragt; mindestens jedoch einmal im Vierteljahr. Der Antrag auf unverzügliche Einberufung des Gemeinderates nach Satz 2 ist schriftlich beim Vorsitzenden einzureichen.
 
-(6) Der Gemeinderat ist einzuberufen, so oft es die Geschäftslage erfordert oder ein Viertel der gesetzlichen Zahl der Ratsmitglieder oder der Bürgermeister es verlangen; mindestens jedoch einmal im Vierteljahr.
+(6) In dringenden Angelegenheiten, die keinen Aufschub dulden (Notfall), kann der Gemeinderat vom Vorsitzenden ohne Frist, formlos und nur unter Angabe der Verhandlungsgegenstände einberufen werden. Ein Notfall ist gegeben, wenn die Beratung und Entscheidung über die Angelegenheit nicht bis zur nächsten Sitzung aufgeschoben werden kann, ohne dass nicht zu beseitigende Nachteile eintreten. 
 
-(7) Sind der Vorsitzende und seine Stellvertreter an einer Einberufung verhindert, so beruft der Bürgermeister den Gemeinderat ein.
+(7) Sind der Vorsitzende und sein Stellvertreter an einer Einberufung verhindert, so beruft der Bürgermeister den Gemeinderat ein.
 
-###§2 Tagesordnung, Änderung der Tagesordnung
-(1) Der Vorsitzende legt im Einvernehmen mit dem Bürgermeister die Tagesordnung fest. Die Tagesordnung gliedert sich in einen öffentlichen und - bei Bedarf - in einen nichtöffentlichen Teil. Die zur Beratung anstehenden Punkte sind in der Regel schriftlich zu erläutern. Die Erläuterungen sind der Einladung beizufügen oder kurzfristig nachzureichen. Sie müssen den Gemeinderäten jedoch grundsätzlich spätestens 48 Stunden vor Beginn der Sitzung zugestellt sein. Von einer Tischvorlage sollte nur im Ausnahmefall Gebrauch gemacht werden.
+###§2 Tagesordnung, Änderung der Tagesordnung
 
-(2) In die Tagesordnung sind außerdem Anträge aufzunehmen, die dem Vorsitzenden bis spätestens 14 Tage vor der Sitzung von Mitgliedern des Gemeinderates oder einer Fraktion vorgelegt werden. Die Anträge sind schriftlich zu begründen, vom Antragsteller, dem Fraktionsvorsitzenden oder dessen Vertreter zu unterzeichnen und haben einen Beschlussvorschlag zu enthalten.
+(1) Der Vorsitzende legt im Einvernehmen mit dem Bürgermeister die Tagesordnung fest. Die Tagesordnung gliedert sich in einen öffentlichen und - bei Bedarf - in einen nichtöffentlichen Teil. Die zur Beratung anstehenden Punkte sind in der Regel schriftlich zu erläutern. Die Erläuterungen sind der Einladung beizufügen oder kurzfristig nachzureichen. Sie müssen den Gemeinderäten jedoch grundsätzlich spätestens 48 Stunden vor Beginn der Sitzung zugestellt sein. Von einer Tischvorlage sollte nur im Ausnahmefall Gebrauch gemacht werden.
 
-(3) Auf Antrag eines Viertels der Mitglieder des Gemeinderates oder einer Fraktion ist ein Verhandlungsgegenstand auf die Tagesordnung spätestens der übernächsten Sitzung des Gemeinderates zu setzen. Dies gilt nicht, wenn der Gemeinderat den gleichen Verhandlungsgegenstand innerhalb der letzten sechs Monate bereits verhandelt hat.
+(2) In die Tagesordnung sind außerdem Anträge aufzunehmen, die dem Vorsitzenden bis spätestens 14 Tage vor der Sitzung von Mitgliedern des Gemeinderates oder einer Fraktion vorgelegt werden. Die Anträge sind schriftlich zu begründen, vom Antragsteller, dem Fraktionsvorsitzenden oder dessen Vertreter zu unterzeichnen und haben einen Beschlussvorschlag zu enthalten.
 
-(4) Betrifft ein Antrag eine Angelegenheit, die nicht in den Aufgabenbereich des Gemeinderates fällt, ist dieser Antrag ohne Sachdebatte durch Geschäftsordnungsbeschluss vom Gemeinderat wieder von der Tagesordnung abzusetzen.
+(3) Auf Antrag eines Viertels der Mitglieder des Gemeinderates oder einer Fraktion ist ein Verhandlungsgegenstand auf die Tagesordnung spätestens der übernächsten Sitzung des Gemeinderates zu setzen. Dies gilt nicht, wenn der Gemeinderat den gleichen Verhandlungsgegenstand innerhalb der letzten sechs Monate bereits verhandelt hat. 
 
-(5) Die Erweiterung der Tagesordnung um Angelegenheiten, die in öffentlichen Sitzungen zu behandeln wären, ist nur in besonderen Fällen zulässig. Soll die Tagesordnung um eine dringende Angelegenheit erweitert werden, die im öffentlichen oder im nichtöffentlichen Teil der Sitzungen zu behandeln wäre, ist die Zustimmung von 2/3 der gesetzlichen Mitglieder des Gemeinderates notwendig.
+(4) Betrifft ein Antrag eine Angelegenheit, die nicht in den Aufgabenbereich des Gemeinderates fällt, ist dieser Antrag ohne Sachdebatte durch Geschäftsordnungsbeschluss vom Gemeinderat wieder von der Tagesordnung abzusetzen.
 
-(6) Die Absetzung von Angelegenheiten von der Tagesordnung oder die Änderung der Reihenfolge der Tagesordnung kann mit einfacher Mehrheit der gesetzlichen Mitglieder entschieden werden.
+(5) Nach erfolgter Einladung ist die Erweiterung der Tagesordnung um Angelegenheiten, die in öffentlicher Sitzung zu behandeln wären, nicht zulässig. Die Erweiterung der Tagesordnung um eine dringende Angelegenheit, die in nicht öffentlicher Sitzung (§ 4) zu behandeln wäre, ist nur zu Beginn einer nicht öffentlichen Sitzung zulässig, wenn alle Mitglieder des Gemeinderates anwesend sind und kein Mitglied widerspricht. 
 
-###§3 Öffentlichkeit von Sitzungen
+(6) Der Gemeinderat beschließt zu Beginn der jeweiligen Sitzung über die Feststellung  der Tagesordnung und über die öffentliche oder nicht öffentliche Behandlung der Tagesordnungspunkte. Auf Antrag kann über die Absetzung von Angelegenheiten von der Tagesordnung oder die Änderung der Reihenfolge der Tagesordnungspunkte mit der Mehrheit der auf „ja“ oder „nein“ lautenden Stimmen entschieden werden. Betrifft ein Antrag eine Angelegenheit, die nicht in den Aufgabenbereich der Gemeinde fällt, ist der Antrag ohne Sachdebatte durch Beschluss des Gemeinderates von der Tagesordnung abzusetzen. 
 
-(1) Die Sitzungen des Gemeinderates sind öffentlich. Zuhörer können unter Ausnutzung der vorhandenen Plätze teilnehmen.
+###§3 Öffentlichkeit von Sitzungen
 
-(2) Zuhörer sind nicht berechtigt, in Sitzungen das Wort zu ergreifen oder sich selbst an den Verhandlungen zu beteiligen.
+(1) Jedermann hat das Recht, an öffentlichen Sitzungen des Gemeinderates und seiner Ausschüsse teilzunehmen. Sind die für Zuhörer vorgesehenen Plätze besetzt, können weitere Interessenten zurückgewiesen werden. Zuhörer sind nicht berechtigt, in Sitzungen das Wort zu ergreifen oder sich selbst an den Verhandlungen zu beteiligen.
 
-###§4 Ausschluss der Öffentlichkeit
-(1) Durch Beschluss des Gemeinderates kann der Ausschluss der Öffentlichkeit von der Sitzung oder von einzelnen Tagesordnungspunkten angeordnet werden. Wegen ihres vertraulichen Charakters werden in der Regel im nichtöffentlichen Teil behandelt:
+(2) An den öffentlichen Sitzungen können Vertreter der Presse, des Rundfunks und ähnlicher Medien teilnehmen. Ihnen sind besondere Sitze zuzuweisen. Abs. 1 Sätze 2 und 3 findet entsprechende Anwendung.
 
-* a) Personalangelegenheiten
-* b) Die Angelegenheiten des übertragenen Wirkungskreises, deren nichtöffentliche Behandlung im Einzelfall von der Fachaufsichtsbehörde verfügt ist,
-* c) sonstige Angelegenheiten, deren Geheimhaltung durch Gesetz vorgeschrieben, nach Natur der Sache erforderlich oder durch den Gemeinderat im Interesse des öffentlichen Wohls oder im Interesse einzelner Bürger beschlossen wird,
-* d) Grundstücksangelegenheiten
-* e) Ausübung des Vorkaufsrechts
-* f) Vergabeentscheidungen.
+(3) Ton- und Bildübertragungen sowie Ton- und Bildaufzeichnungen öffentlicher Sitzungen durch Presse, Rundfunk und ähnliche Medien sind zulässig, wenn sie den Sitzungsablauf nicht beeinträchtigen. Sie sind dem Vorsitzenden vorher anzuzeigen. Dieser ist berechtigt, Auflagen, die der Aufrechterhaltung der Ordnung in der Sitzung dienen, zu erteilen.
 
-(2) Tagesordnungspunkte für nichtöffentliche Sitzungen sind so bekannt zu geben, dass der Zweck, der Nichtöffentlichkeit nicht gefährdet wird.
+(4) Als Auflagen kommen insbesondere in Betracht:
+
+* die Festlegung des Standortes für Ton- und Bildaufzeichnungstechnik,
+* die Festlegung der Dauer und der Art der Ton- und/oder Bildaufzeichnung/Übertragung,
+* die Ausnahme von Mitgliedern im Einzelfall, Mitglieder des Gemeinderates, Beschäftigte der Verwaltung und Sachverständige können verlangen, dass einzelne eigene Redebeiträge bzw. Ausführungen nicht aufgezeichnet und übertragen werden,
+* dem Vorsitzenden des Gemeinderates steht darüber hinaus im Rahmen seiner Ordnungsfunktion das Recht zu, Bild- und Tonaufzeichnungen sowie Bild- und Tonübertragungen zu untersagen.
+
+(5) Unter den in Abs. 3 genannten Voraussetzungen sind auch durch den Gemeinderat und die Ausschüsse veranlasste Ton- und Bildübertragungen sowie Ton- und Bildaufzeichnungen öffentlicher Sitzungen zulässig. Nach Satz 1 erstellte Ton- und Bildträger sind dem Gemeindearchiv zur Übernahme in das kommunale Archivgut zu übergeben.
+
+###§4 Ausschluss der Öffentlichkeit
+
+(1) Durch Beschluss des Gemeinderates ist im Rahmen des § 52 Abs. 2 KVG LSA über den Ausschluss der Öffentlichkeit von der Sitzung oder von einzelnen Tagesordnungspunkten zu entscheiden. Soweit das öffentliche Wohl oder berechtigte Interessen Einzelner dies erfordern, werden insbesondere in nicht öffentlicher Sitzung behandelt:
+
+* a) Personalangelegenheiten,
+* b) Angelegenheiten des übertragenen Wirkungskreises, deren nichtöffentliche Behandlung im Einzelfall von der Fachaufsichtsbehörde verfügt ist,
+* c) sonstige Angelegenheiten, deren Geheimhaltung durch Gesetz vorgeschrieben, nach Natur der Sache erforderlich oder durch den Gemeinderat im Interesse des öffentlichen Wohls oder im Interesse einzelner Bürger beschlossen wird,
+* d) Grundstücksangelegenheiten,
+* e) Ausübung des Vorkaufsrechts,
+* f) Vergabeentscheidungen,
+* g) Persönliche Angelegenheiten der Mitglieder des Gemeinderates
+
+(2) In nicht öffentlicher Sitzung gefasste Beschlüsse sind nach Wiederherstellung der Öffentlichkeit oder - wenn dies ungeeignet ist - in der nächsten öffentlichen Sitzung bekannt zu geben, sofern nicht das öffentliche Wohl oder berechtigte Interessen Einzelner entgegenstehen.
 
 ###§5 Sitzungsleitung
 
-(1) Der Vorsitzende hat die Sitzungen unparteiisch zu leiten. Er ruft die Verhandlungsgegenstände auf und stellt sie zur Beratung und Beschlussfassung. Will er zu einem Verhandlungsgegenstand als Mitglied des Gemeinderates sprechen, so muss er den Vorsitz für die Dauer der Beratung dieses Gegenstandes mindestens für die Dauer seiner Sprechzeit abgeben. Diese Regelung gilt für die Stellvertreter entsprechend.
+(1) Der Vorsitzende hat die Sitzungen unparteiisch zu leiten, sorgt für die Aufrechterhaltung der Ordnung und übt das Hausrecht während der Sitzungen des Gemeinderates aus. Er ruft die Verhandlungsgegenstände auf und stellt sie zur Beratung und Beschlussfassung. Will er zu einem Verhandlungsgegenstand als Mitglied des Gemeinderates sprechen, so muss er den Vorsitz für die Dauer der Beratung dieses Gegenstandes mindestens für die Dauer seiner Sprechzeit an seinen Stellvertreter abgeben. Diese Regelung gilt für den Stellvertreter entsprechend.
 
-(2) Sind der Vorsitzende und seine Vertreter verhindert, so wählt der Gemeinderat unter dem Vorsitz des ältesten anwesenden, hierzu bereiten Gemeinderatsmitgliedes für die Dauer der Verhinderung, längstens für die Dauer der Sitzung, einen Vorsitzenden aus seiner Mitte.
+(2) Sind der Vorsitzende und seine Vertreter verhindert, so wählt der Gemeinderat unter dem Vorsitz des an Jahren ältesten anwesenden Mitgliedes für die Dauer der Verhinderung, längstens für die Dauer der Sitzung, einen Vorsitzenden aus seiner Mitte.
 
-###§6 Sitzungsverlauf
+(3) Die Sitzungen des Gemeinderates sind grundsätzlich in folgender Reihenfolge durchzuführen:
 
-(1) Die Sitzungen des Gemeinderates sind grundsätzlich in folgender Reihenfolge durchzuführen:
+* a) Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einberufung, der fehlenden Mitglieder des Gemeinderates und der Beschlussfähigkeit, 
+* b) Entscheidung über Änderungsanträge zur Tagesordnung und Feststellung der Tagesordnung, 
+* c) Einwohnerfragestunde, 
+* d) Entscheidung über Einwendungen zur Niederschrift und Feststellung der Niederschrift der letzten Sitzung des Gemeinderates,
+* e)Beschlussfassung in öffentlicher Sitzung über die Behandlung von Tagesordnungspunkten in nicht öffentlicher Sitzung, 
+* f) Bericht des Bürgermeisters über die Ausführung gefasster Beschlüsse, ggf. über wichtige Gemeindeangelegenheiten und Eilentscheidungen, 
+* g)Bekanntgabe von (amtlichen) Mitteilungen, 
+* h) Behandlung der Tagesordnungspunkte der öffentlichen Sitzung, 
+* i) Anfragen und Anregungen
+* j) Behandlung der Tagesordnungspunkte der nicht öffentlichen Sitzung,
+* k) Beantwortung von Anfragen, die in nichtöffentlicher Sitzung zu behandeln sind,
+* l) Bekanntgabe der in nicht öffentlicher Sitzung gefassten Beschlüsse, 
+* m) Schließung der Sitzung. 
 
-* a) Eröffnung der Sitzung, Feststellung der Ordnungsmäßigkeit der Einladungen und der Beschlussfähigkeit
-* b) Änderungsanträge zur Tagesordnung und Festsetzung der Tagesordnung
-* c) Einwohnerfragestunde,
-* d) Genehmigung der Niederschrift(en) der letzten Sitzung(en) des Gemeinderates
-* e) Abwicklung der Tagesordnungspunkte
-* f) Bericht des Bürgermeisters über wichtige Angelegenheiten und Eilentscheidungen,
-* g) Anregungen und Beantwortung von Anfragen
-* h) Schließung der Sitzung
-* i) Nichtöffentliche Sitzung,
-* l) Beratung und Beschlussfassung über die in der Tagesordnung bezeichneten Verhandlungsgegenstände, die in nichtöffentlicher Sitzung zu behandeln sind,
-* m) Bericht des Bürgermeisters über wichtige Angelegenheiten und Eilentscheidungen,die in nichtöffentlicher Sitzung zu behandeln sind,
-* n) Beantwortung von Anfragen, die in nichtöffentlicher Sitzung zu behandeln sind,
-* o) Bekanntgabe der Ergebnisse der nichtöffentlichen Sitzung,
-* p) Schließen der Sitzung.
+(4) Die einzelnen Punkte der Tagesordnung kommen in der durch die Einladung festgelegten Reihenfolge zur Beratung und Abstimmung. § 2 Abs. 4 Satz 2 bleibt unberührt. 
 
-(2) Die einzelnen Punkte der Tagesordnung kommen in der dort festgelegten Reihenfolge zur Beratung und Abstimmung.
+###§6 Anregungen und Beschwerden der Einwohner
 
-###§7 Anregungen und Beschwerden der Einwohner
-Die Einwohner der Gemeinde haben das Recht, sich schriftlich oder zur Niederschrift mit Anregungen und Beschwerden an den Gemeinderat zu wenden. Antragsteller sollen über die Stellungnahme des Gemeinderates möglichst innerhalb von 6 Wochen unterrichtet werden. Ansonsten ist ein Zwischenbescheid zu erteilen.
+Die Einwohner der Gemeinde haben das Recht, sich mit Anregungen und Beschwerden an den Gemeinderat zu wenden. Antragsteller sollen über die Stellungnahme des Gemeinderates möglichst innerhalb von sechs Wochen unterrichtet werden. Ansonsten ist ein Zwischenbescheid durch den Bürgermeister zu erteilen.
 
-###§8 Anfragen
+###§7 Anfragen
 
-(1) Jeder Gemeinderat ist berechtigt, Anfragen vor oder in der Sitzung des Gemeinderates einzubringen.
+(1) Jedes Mitglied des Gemeinderates ist berechtigt, schriftlich oder in der Sitzung des Gemeinderates mündlich Anfragen zu einzelnen Angelegenheiten der Gemeinde und der Gemeindeverwaltung an den Bürgermeister zu richten.
 
-(2) Die Anfragen sollen möglichst 1 Woche vor der Sitzung schriftlich beim Bürgermeister oder Vorsitzenden des Gemeinderates eingereicht werden. Liegt eine Anfrage nicht bis zum Schluss der Sitzung schriftlich vor, so ist die schriftliche Fassung innerhalb von 3 Tagen nachzureichen oder zu Protokoll beim Schriftführer zu geben. Andernfalls wird die Anfrage als nicht gestellt betrachtet.
+(2) Die Anfragen sollen möglichst 1 Woche vor der Sitzung schriftlich beim Bürgermeister oder Vorsitzenden des Gemeinderates eingereicht werden. Liegt eine Anfrage nicht bis zum Schluss der Sitzung schriftlich vor, so ist die schriftliche Fassung innerhalb von 3 Tagen nachzureichen oder zu Protokoll beim Schriftführer zu geben. Andernfalls wird die Anfrage als nicht gestellt betrachtet.
 
-(3) Kann eine Anfrage nicht sofort beantwortet werden, so ist darauf spätestens innerhalb eines Monats schriftlich Bescheid zu erteilen.
+(3) Kann eine Anfrage nicht sofort beantwortet werden, so ist darauf spätestens innerhalb eines Monats schriftlich Bescheid zu erteilen.
 
-###§9 Beratung der Sitzungsgegenstände
-(1) Nach den Erläuterungen und Begründungen des Bürgermeisters oder des Vorsitzenden des Gemeinderates zu den Gegenständen der Tagesordnung, gegebenenfalls nach Vortrag der Sachverständigen, eröffnet der Vorsitzende des Gemeinderates die Beratung zu dem jeweiligen Tagesordnungspunkt.
+(4) Ein Zehntel, mindestens jedoch zwei der ehrenamtlichen Mitglieder des Gemeinderates oder eine Fraktion kann in allen Angelegenheiten der Gemeinde und ihrer Verwaltung verlangen, dass der Bürgermeister den Gemeinderat unterrichtet. Auf Antrag der in Satz 1 bezeichneten Mehrheiten ist dem Gemeinderat oder einem von ihm bestellten Ausschuss Akteneinsicht zu gewähren. Die Antragsteller müssen in dem Ausschuss vertreten sein. Der Gemeinderat kann beschließen, dass ihm hierüber berichtet wird. Der Bericht ist schriftlich vorzulegen. Zur Beschleunigung des Verfahrens kann der Bericht auf Beschluss des Gemeinderates mündlich erteilt werden. 
 
-(2) Die Mitglieder des Gemeinderates, die wegen persönlicher Beteiligung gemäß § 31 Gemeindeordnung für das Land Sachsen-Anhalt (GO LSA) von der Beratung und Abstimmung ausgeschlossen sein können, haben dies dem Vorsitzenden des Gemeinderates vor Beginn der Beratung unaufgefordert mitzuteilen.
+###§8 Beratung der Sitzungsgegenstände
 
-(3) Ein Mitglied des Gemeinderates darf in der Sitzung nur dann sprechen, wenn ihm der Vorsitzende des Gemeinderates das Wort erteilt. Das Wort kann wiederholt erteilt werden. Der Vorsitzende des Gemeinderates erteilt das Wort möglichst in der Reihenfolge der Wortmeldungen. Dem Bürgermeister ist zur tatsächlichen und rechtlichen Klarstellung des Sachverhalts auch außerhalb der Reihenfolge der Wortmeldungen das Wort zu erteilen. Bei Wortmeldungen zur Geschäftsordnung ist das Wort außer der Reihe sofort zu erteilen.
+(1) Nach den Erläuterungen und Begründungen des Bürgermeisters oder des Vorsitzenden des Gemeinderates zu den Gegenständen der Tagesordnung, gegebenenfalls nach Vortrag der Sachverständigen, eröffnet der Vorsitzende des Gemeinderates die Beratung zu dem jeweiligen Tagesordnungspunkt.
 
-(4) Die Redner sprechen grundsätzlich von ihrem Platz aus und dürfen in ihren Ausführungen nicht unterbrochen werden. Die Anrede ist an den Gemeinderat, nicht an die Zuhörer zu richten. Die Redner haben sich an den zur Beratung stehenden Antrag zu halten und nicht vom Thema abzuweichen. Die Redezeit eines Mitglieds oder der Mitglieder des Gemeinderates kann vom Gemeinderat festgelegt werden. 
-Erhebt sich der Vorsitzende oder läutet er mit einer Glocke, so hat der Redner seine Ausführungen zu unterbrechen.
+(2) Die Mitglieder des Gemeinderates, die wegen persönlicher Beteiligung gemäß § 33 KVG LSA von der Beratung und Abstimmung ausgeschlossen sein können, haben dies dem Vorsitzenden des Gemeinderates vor Beginn der Beratung unaufgefordert mitzuteilen.
 
-(5) Persönliche Angriffe und Beleidigungen sind von dem Vorsitzenden zu rügen.
+(3) Ein Mitglied des Gemeinderates darf in der Sitzung nur dann sprechen, wenn ihm der Vorsitzende des Gemeinderates das Wort erteilt. Das Wort kann wiederholt erteilt werden. Der Vorsitzende des Gemeinderates erteilt das Wort möglichst in der Reihenfolge der Wortmeldungen. Dem Bürgermeister ist zur tatsächlichen und rechtlichen Klarstellung des Sachverhalts auch außerhalb der Reihenfolge der Wortmeldungen das Wort zu erteilen. Bei Wortmeldungen zur Geschäftsordnung ist das Wort außer der Reihe sofort zu erteilen.
 
-(6) Während der Beratung sind nur zulässig:
+(4) Die Redner sprechen grundsätzlich von ihrem Platz aus und dürfen in ihren Ausführungen nicht unterbrochen werden. Die Anrede ist an den Gemeinderat, nicht an die Zuhörer zu richten. Die Redner haben sich an den zur Beratung stehenden Antrag zu halten und nicht vom Thema abzuweichen. Die Redezeit eines Mitglieds oder der Mitglieder des Gemeinderates kann vom Gemeinderat festgelegt werden. Erhebt sich der Vorsitzende oder läutet er mit einer Glocke, so hat der Redner seine Ausführungen zu unterbrechen.
 
-* a) Anträge zur Geschäftsordnung
-* b) Zusatz- oder Änderungsanträge oder Anträge auf Zurückziehung des zu beratenden Antrages
+(5) Persönliche Angriffe und Beleidigungen sind von dem Vorsitzenden zu rügen.
 
-(7) Der Bürgermeister, der Antragsteller und bei Bedarf die Fraktionsvorsitzenden haben das Recht zur Schlussäußerung. Die Beratung wird vom Vorsitzenden des Gemeinderates geschlossen.
+(6) Während der Beratung sind nur zulässig:
 
-###§10 Sachanträge zur Tagesordnung
+* a) Anträge zur Geschäftsordnung
+* b) Zusatz- oder Änderungsanträge oder Anträge auf Zurückziehung des zu beratenden Antrages
 
-(1) Anträge durch die Mitglieder des Gemeinderates können vor der Sitzung schriftlich oder zur Niederschrift beim Bürgermeister oder Vorsitzenden des Gemeinderates eingereicht werden. Über die eingegangenen Anträge zur Tagesordnung entscheidet der Gemeinderat.
+(7) Der Vorsitzende, der Bürgermeister, der Antragsteller und bei Bedarf die Fraktionsvorsitzenden haben das Recht zur Schlussäußerung. Die Beratung wird vom Vorsitzenden des Gemeinderates geschlossen.
 
-(2) Anträge können, solange darüber noch nicht abgestimmt wurde, zurückgenommen werden. Ein zurückgenommener Antrag kann von einem anderen Mitglied des Gemeinderates aufgenommen werden mit der Wirkung, dass über den aufgenommenen anstelle des zurückgenommenen Antrages abgestimmt wird.
 
-###§11 Geschäftsordnungsanträge
+###§9 Sachanträge zur Tagesordnung
 
-(1) Folgende Anträge können jederzeit gestellt werden:
+(1) Änderungs- und Zusatzanträge können bis zur Abstimmung gestellt werden. Hält der Vorsitzende einen Antrag für zulässig, so hat er vorab über die Zulässigkeit abstimmen zu lassen. Außerhalb der Sitzung können Anträge auch beim Vorsitzenden des Gemeinderates oder beim Bürgermeister schriftlich oder zur Niederschrift eingereicht werden. 
 
-* a) Schluss der Aussprache,
-* b) Schluss der Rednerliste,
-* c) namentliche Abstimmung,
-* d) Überweisung an einen Ausschuss oder den Bürgermeister,
-* e) Absetzung oder Vertagung einer Angelegenheit von der Tagesordnung,
-* f) Festsetzung sowie Verlängerung und Verkürzung der Redezeit,
-* g) Unterbrechung oder Aufhebung der Sitzung,
-* h) Ausschluss oder Wiederherstellung der Öffentlichkeit,
-* i) Rücknahme von Anträgen,
-* j) Anhörung von Personen, insbesondere von Sachverständigen.
+(2) Anträge können, solange darüber noch nicht abgestimmt wurde, von dem Antragsteller zurückgezogen werden. Ein zurückgezogener Antrag kann von einem anderen Mitglied des Gemeinderates aufgenommen werden mit der Wirkung, dass über den aufgenommenen anstelle des zurückgezogenen Antrages abgestimmt wird.
 
-(2) Über diese Anträge entscheidet der Gemeinderat vorab.
+###§10 Geschäftsordnungsanträge
 
-(3) Meldet sich ein Gemeinderat zur Geschäftsordnung durch Aufheben beider Hände, so muss ihm das Wort außerhalb der Reihe erteilt werden. Es darf dadurch kein Sprecher unterbrochen werden. Bemerkungen zur Geschäftsordnung dürfen nicht länger als 3 Minuten dauern. Sie dürfen sich mit der Sache selbst nicht befassen, sondern nur den Geschäftsordnungsantrag begründen.
+(1) Folgende Anträge zur Geschäftsordnung können jederzeit gestellt werden: 
 
-(4) Bei Antrag auf Schluss der Aussprache gibt der Vorsitzenden des Gemeinderates die noch vorliegenden Wortmeldungen bekannt. Danach erteilt er dem Antragsteller das Wort zu einer kurzen Begründung. Gegen den Antrag darf nur ein weiterer Redner sprechen.
+* a) Schluss der Aussprache
+* b) Schluss der Rednerliste
+* c) Verweisung an einen Ausschuss oder den Bürgermeister, 
+* d) Absetzung einer Angelegenheit von der Tagesordnung oder Vertagung, 
+* e) Festsetzung sowie Verlängerung und Verkürzung der Redezeit, 
+* f) Unterbrechung, Vertagung oder Beendigung der Sitzung, 
+* g) Ausschluss oder Wiederherstellung der Öffentlichkeit, 
+* h) Zurückziehung von Anträgen, 
+* i) Anhörung von Personen, insbesondere Sachverständigen, 
+* j) Feststellung des Mitwirkungsverbotes eines Gemeinderatsmitgliedes, 
+* k) Feststellung der Beschlussunfähigkeit des Gemeinderates im Verlauf der Sitzung.
 
-###§ 12 Abstimmungen
+(2) Über diese Anträge entscheidet der Gemeinderat vorab.
 
-(1) Nach Schluss der Beratung oder nach Annahme des Antrages auf Schluss der Beratung lässt der Vorsitzende des Gemeinderates abstimmen, nachdem er die Aussprache für beendet erklärt hat. Während der Abstimmung können keine weiteren Anträge gestellt werden. Anträge, über die abgestimmt werden soll, sollen vor der Abstimmung im Wortlaut verlesen werden, sofern sie den Gemeinderäten nicht schriftlich vorliegen.
+(3) Meldet sich ein Mitglied des Gemeinderates „zur Geschäftsordnung“ durch Erheben beider Hände, so muss ihm das Wort außerhalb der Reihenfolge erteilt werden. Es darf dadurch kein Sprecher unterbrochen werden. Bemerkungen zur Geschäftsordnung dürfen nicht länger als 3 Minuten dauern. Sie dürfen sich mit der Sache selbst nicht befassen, sondern nur den Geschäftsordnungsantrag begründen. 
 
-(2) Über jeden Antrag oder Beschlussvorlage ist gesondert abzustimmen.
+(4) Bei Antrag auf Schluss der Aussprache gibt der Vorsitzenden des Gemeinderates die noch vorliegenden Wortmeldungen bekannt. Danach erteilt er dem Antragsteller das Wort zu einer kurzen Begründung. Gegen den Antrag darf nur ein weiterer Redner sprechen.
 
-(3) Stehen mehrere Anträge zur Abstimmung, so wird über sie in der nachstehenden Reihenfolge abgestimmt:
+###§11 Abstimmungen
 
-* a) Anträge zur Geschäftsordnung,
-* b) Anträge von Ausschüssen, über sie ist vor allen anderen Anträgen zum gleichen
-* Sitzungsgegenstand abzustimmen,
-* c) weitergehende Anträge; als weitergehend sind solche Anträge anzusehen, die einen größeren Aufwand erfordern oder eine einschneidendere Maßnahme zum Gegenstand haben,
-* d) früher gestellte Anträge vor später gestellten, sofern der spätere Antrag nicht unter Buchstaben a) bis c) fällt. Im Zweifelsfall entscheidet der Vorsitzende des Gemeinderates.
+(1) Nach Schluss der Beratung oder nach Annahme des Geschäftsordnungsantrages auf „Schluss der Rednerliste“ lässt der Vorsitzende des Gemeinderates abstimmen. Während der Abstimmung können keine weiteren Anträge gestellt werden. Anträge über die abgestimmt werden soll, sollen vor der Abstimmung im Wortlaut verlesen werden, sofern sie den Mitgliedern des Gemeinderates nicht schriftlich vorliegen.
 
-(4) Vor jeder Abstimmung hat der Vorsitzende des Gemeinderates die Frage, über die abgestimmt werden soll, so zu formulieren, dass sie mit Ja oder Nein beantwortet werden kann.
+(2) Über jeden Antrag oder Beschlussvorschlag ist gesondert abzustimmen.
 
-(5) Es wird grundsätzlich durch Handzeichen offen abgestimmt. Ein Antrag auf namentliche Abstimmung bedarf der Zustimmung von mindestens einem Viertel der anwesenden Mitglieder des Gemeinderates oder der geschlossenen Zustimmung einer Fraktion.
+(3) Stehen mehrere Anträge zur Abstimmung, so wird über sie in der nachstehenden Reihenfolge abgestimmt:
 
-(6) Die Stimmen sind durch den Vorsitzenden des Gemeinderates oder von ihm Beauftragte zu zählen. Das Abstimmungsergebnis ist unmittelbar nach der Abstimmung durch den Vorsitzenden des Gemeinderates bekannt zu geben. Er hat festzustellen, ob der Antrag angenommen oder abgelehnt ist.
+* a) Anträge zur Geschäftsordnung,
+* b) Anträge von Ausschüssen; über sie ist vor allen anderen Anträgen zum gleichen Sitzungsgegenstand abzustimmen,
+* c) weitergehende Anträge, insbesondere Änderungs- und Zusatzanträge, die einen größeren Aufwand erfordern oder die eine einschneidendere Maßnahme zum Gegenstand haben, 
+* d) früher gestellte Anträge vor später gestellten, sofern der spätere Antrag nicht unter Buchstaben a) bis c) fällt.
 
-(7) Wird das Ergebnis von einem Gemeinderat angezweifelt, so ist die Abstimmung unverzüglich zu wiederholen.
+In Zweifelsfällen entscheidet der Vorsitzende des Gemeinderates. Bei Widerspruch entscheidet der Gemeinderat durch einfache Stimmenmehrheit.
 
-###§13 Wahlen
+(4) Vor jeder Abstimmung hat der Vorsitzende des Gemeinderates die Frage, über die abgestimmt werden soll, so zu formulieren, dass sie mit „ja“ oder „nein“ beantwortet werden kann.
 
-(1) Wahlen werden gemäß § 54 Abs. 3 GO durch geheime Abstimmung vollzogen; es kann offen gewählt werden, wenn kein Mitglied des Gemeinderates widerspricht. Bei Losentscheid wird das Los vom Vorsitzenden gezogen.
+(5) Es wird offen durch Handzeichen abgestimmt. Ein Antrag auf namentliche Abstimmung bedarf der Zustimmung von mindestens einem Viertel der anwesenden Mitglieder des Gemeinderates oder der geschlossenen Zustimmung einer Fraktion. Jedes Mitglied des Gemeinderates kann verlangen, dass in der Niederschrift vermerkt wird, wie es abgestimmt hat. 
 
-(2) Zur Vorbereitung und Durchführung von Wahlen von Personen werden aus der Mitte des Gemeinderates zwei Stimmenzähler bestimmt.
+(6) Stimmenthaltungen und ungültige Stimmen zählen bei der Feststellung des Abstimmungsergebnisses nicht mit. Der Vorsitzende stellt anhand der Mehrheit der auf „ja“ oder „nein“ lautenden Stimmen fest, ob der Antrag angenommen oder abgelehnt ist. Bei Stimmengleichheit ist der Antrag abgelehnt. Das Abstimmungsergebnis gibt der Vorsitzende unverzüglich nach der Abstimmung bekannt. 
 
-(3) Für Stimmzettel sind äußerlich gleiche Zettel zu verwenden. Die Stimmzettel sind zu falten.
+(7) Wird das Ergebnis von einem Mitglied des Gemeinderates angezweifelt, so ist die Abstimmung zu wiederholen und das Ergebnis mit der Zahl der Gegenstimmen, Stimmenthaltungen und ungültigen Stimmen festzuhalten. 
 
-(4) Die Stimmzettel sind so vorzubereiten, dass jeder Kandidat durch ein Kreuz kenntlich gemacht werden kann. Die farbliche Markierung soll einheitlich sein, um Rückschlüsse auf die stimmenabgebende Person zu vermeiden.
+(8) Über Gegenstände einfacher Art kann außerhalb einer Gemeinderatssitzung im Wege der Offenlegung oder im schriftlichen Verfahren beschlossen werden. Ein hierbei gestellter Antrag ist angenommen, wenn kein stimmberechtigtes Mitglied innerhalb einer Woche nach Bekanntgabe widerspricht.
 
-(5) Ungültig sind Stimmen, wenn der Stimmzettel
-	
-1. nicht als amtlich zu erkennen ist,
-2. keinen Stimmabgabevermerk enthält,
-3. den Willen des 'Wählers“ nicht zweifelsfrei erkennen lässt,
-4. einen Zusatz oder Vorbehalt enthält.
+###§12 Wahlen
 
-(6) Die Auszählung erfolgt in Anwesenheit des Gemeinderates. Der Vorsitzende des Gemeinderates gibt das Ergebnis unmittelbar bekannt.
+(1) Wahlen werden nur in den gesetzlich ausdrücklich genannten Fällen durchgeführt. Sie werden geheim mit Stimmzetteln vorgenommen; es kann offen gewählt werden, wenn kein Mitglied widerspricht.
 
-###§ 14 Unterbrechung, Übertragung und Vertagung
+(2) Zur Vorbereitung und Durchführung von Wahlen von Personen werden aus der Mitte des Gemeinderates mehrere Stimmenzähler bestimmt.
 
-(1) Der Vorsitzende des Gemeinderates kann die Sitzung unterbrechen. Auf Antrag von der Hälfte der anwesenden Gemeinderäte muss er die Sitzung unterbrechen. Die Unterbrechung soll nicht länger als 15 Minuten dauern.
+(3) Als Stimmzettel sind äußerlich gleiche Zettel zu verwenden. Die Stimmzettel sind so vorzubereiten, dass jeder Kandidat durch ein Kreuz kenntlich gemacht werden kann. Die farbliche Markierung erfolgt einheitlich, um Rückschlüsse auf die stimmabgebende Person zu vermeiden. Die Stimmzettel sind vor der Abgabe zu falten.
 
-(2) Der Gemeinderat kann:
+(4) Ungültig sind Stimmen, sofern der Stimmzettel
 
-* a) Tagesordnungspunkte zur nochmaligen Beratung an den mit der Vorbereitung befassten Ausschuss zurückverweisen,
-* b) Tagesordnungspunkte zur erneuten Vorbereitung an den Bürgermeister zurückverweisen,
-* c) die Beratung über einzelne Punkte der Tagesordnung vertagen oder
-* d) die Tagesordnungspunkte durch eine Entscheidung in der Sache abschließen.
+* a) nicht als amtlich erkennbar ist,
+* b) leer ist, 
+* c) den Willen des Stimmberechtigten nicht zweifelsfrei erkennen lässt, 
+* d) einen Zusatz, Vorbehalte oder weitere Beschriftungen enthält,
+* e) mehr als eine Stimme für einen Bewerber enthält.
 
-(3) Über entsprechende Anträge ist sofort abzustimmen. Der Schlussantrag geht bei der Abstimmung dem Verweisungs-, dieser dem Vertagungsantrag vor. Wird einem Antrag stattgegeben, sind die bei der Antragstellung vorliegenden Wortmeldungen noch zulässig.
+(5) Die Auszählung der Stimmen hat in Anwesenheit der Mitglieder des Gemeinderates zu erfolgen. 
 
-(4) Jeder Antragsteller kann bei demselben Punkt der Tagesordnung nur einen Ver- weisungs-, einen Vertagungs- oder einen Schlussantrag stellen.
+(6) Gewählt ist die Person, die im ersten Wahlgang die Stimmen der Mehrheit der anwesenden stimmberechtigten Mitglieder erhalten hat. Wird diese Mehrheit nicht erreicht, so findet ein zweiter Wahlgang statt. Im zweiten Wahlgang ist die Person gewählt, die die meisten Stimmen erhalten hat. Ergibt sich im zweiten Wahlgang Stimmengleichheit, so entscheidet das Los, das der Vorsitzende zieht. Soweit im ersten Wahlgang nur eine Person zur Wahl stand und diese Person die erforderliche Mehrheit nicht erreicht hat, finden die Sätze 2 bis 4 keine Anwendung. Der Vorsitzende gibt das Wahlergebnis unmittelbar nach der Wahl bekannt. 
 
-(5) Nach 22:00 Uhr dürfen nur noch weitere Tagesordnungspunkte aufgerufen werden, sofern kein Mitglied des Gemeinderates widerspricht. Der in der Beratung befindliche Tagesordnungspunkt wird abschließend behandelt. Danach ist die Sitzung zu schließen. Die restlichen Tagesordnungspunkte sind in der nächsten Sitzung des Gemeinderates an vorderster Stelle abzuwickeln sofern durch den Vorsitzenden des Gemeinderates nicht von § 1 Absatz 3 Satz 5 und 6 Gebrauch gemacht wird.
+(7) Sind mehrere Personen zu wählen, können die Wahlen in einem Wahlvorgang durchgeführt werden, indem alle Bewerber auf einem Stimmzettel erfasst werden und je zu besetzende Stelle eine Stimme vergeben werden kann. Gewählt sind die Bewerber in der Reihenfolge der Zahl, der für sie abgegebenen gültigen Stimmen, wenn zugleich die Mehrheit der anwesenden stimmberechtigten Mitglieder erreicht ist. Bei Stimmengleichheit entscheidet das Los, das der Vorsitzende zieht. 
 
-###§15 Protokollführung
+###§13 Unterbrechung, Übertragung und Vertagung
 
-Der Bürgermeister bestellt einen Beamten oder einen Angestellten der Gemeinde Möser zum Protokollführer.
+(1) Der Vorsitzende des Gemeinderates kann die Sitzung unterbrechen. Er hat die Sitzung zu unterbrechen, wenn auf Antrag eines Mitgliedes des Gemeinderates ein entsprechender Beschluss von der Mehrheit der anwesenden Gemeinderatsmitglieder gefasst wird. Die Unterbrechung soll im Regelfall nicht länger als 15 Minuten dauern. 
 
-###§16 Sitzungsniederschrift
+(2) Der Gemeinderat kann
 
-(1) Über den Mindestinhalt gemäß §56 Absatz I GO LSA hinaus, muss die Sitzungsniederschrift enthalten:
+* a)	Tagesordnungspunkte zur nochmaligen Beratung an den mit der Vorberatung befassten Ausschuss zurückverweisen,
+* b)	Tagesordnungspunkte zur erneuten Vorbereitung an den Bürgermeister zurückverweisen, 
+* c)	die Beratung über einzelne Punkte der Tagesordnung vertagen oder 
+* d)	die Tagesordnungspunkte durch eine Entscheidung in der Sache abschließen. 
 
-* a) Beginn und Ende der Sitzung sowie etwaige Sitzungsunterbrechungen,
-* b) Namen der fehlenden Mitglieder des Gemeinderates,
-* c) Vermerke darüber, welche Gemeinderäte verspätet erschienen sind oder die Sitzung vorzeitig oder wegen Befangenheit vorübergehend verlassen haben, wobei ersichtlich sein muss, an welchen Abstimmungen oder Wahlen die Betroffenen nicht teilgenommen haben,
-* d) Feststellung der Ordnungsmäßigkeit der Einladung,
-* e) Feststellung der Beschlussfähigkeit,
-* f) Einwende und Anfragen,
-* g) Die Angabe, ob die Beratung über die einzelnen Tagesordnungspunkte öffentlich
-* oder nichtöffentlich stattgefunden hat,
-* h) Genehmigung der Sitzungsniederschrift(en) der vorangegangenen Sitzung(en),
-* i) sonstige wesentliche Inhalte.
+(3) Über entsprechende Anträge ist sofort abzustimmen. Der Schlussantrag geht bei der Abstimmung dem Verweisungs-, dieser dem Vertagungsantrag vor. 
 
-(2) Angelegenheiten, die im nichtöffentlichen Teil der Sitzung behandelt wurden, sind gesondert zu protokollieren und in einem verschlossenen Umschlag mit der Aufschrift "vertraulich" zu versenden,
+(4) Jeder Antragsteller kann bei demselben Punkt der Tagesordnung nur einen Verweisungs-, Vertagungs- oder Schlussantrag stellen. 
 
-(3) Die unterzeichnete Niederschrift ist allen Gemeinderäten unverzüglich in der Regel
-innerhalb von 14 Tagen nach der Sitzung zuzuleiten.
+(5) Nach 22:00 Uhr werden keine weiteren Tagesordnungspunkte aufgerufen. Der in der Beratung befindliche Tagesordnungspunkt wird abschließend behandelt. Danach ist die Sitzung zu schließen. Sofern die Sitzung nicht gemäß § 1 Abs. 4 Sätze 3 bis 5 an einem der nächsten Tage fortgesetzt wird, sind die restlichen Punkte in der nächstfolgenden Sitzung an vorderster Stelle zu behandeln. 
 
-(4) Einwendungen gegen die Niederschrift dürfen sich nur gegen die Richtigkeit der Wiedergabe des Verhandlungsverlaufs und des Inhalts der Beschlüsse richten. Werden gegen die Niederschrift innerhalb von zehn Kalendertagen nach dem Tag der Absendung keine schriftlichen Einwendungen erhoben, gilt sie als anerkannt. Einwendungen gegen die Niederschrift sind dem Vorsitzenden schriftlich zuzuleiten.
+###§14 Niederschrift
 
-(5) Erhebt ein Gemeinderat gegen die Richtigkeit oder Vollständigkeit der Niederschrift Bedenken, so wird, falls die Bedenken nicht sofort ausgeräumt werden können, in der nächsten Sitzung über die Begründetheit der Bedenken und gegebenenfalls über die Änderung der Niederschrift abgestimmt. Wird durch das Ergebnis der Abstimmung den Bedenken nicht entsprochen, so ist das Mitglied des Gemeinderates berechtigt, die Aufnahme einer entsprechenden Erklärung in die Niederschrift zu verlangen. Eine erneute Beratung oder eine sachliche Änderung der in der Niederschrift enthaltenen Beschlüsse findet nicht statt.
+(1) Über jede Sitzung des Gemeinderates ist eine Niederschrift anzufertigen, die vom Vorsitzenden und vom Protokollführer zu unterzeichnen ist. Der Protokollführer ist ein Gemeindebediensteter und wird vom Bürgermeister benannt.
 
-(6) Den Ortsbürgermeistern sowie den Ortschaftsräten, die dies wünschen sind Kopien der Niederschrift zuzuleiten.
+(2) Die Niederschrift muss mindestens enthalten:
 
-(7) Den Einwohnern sind auf Antrag Kopien aus der Niederschrift, die nicht der Vertraulichkeit unterliegen gegen Kostenerstattung zu erstellen.
+* a) Datum, Ort, Beginn und Ende der Sitzung sowie etwaige Sitzungsunterbrechungen, 
+* b) die Namen der anwesenden und fehlenden Mitglieder des Gemeinderates, 
+* c) die Feststellung der ordnungsgemäßen Einberufung, der Beschlussfähigkeit und der Tagesordnung, 
+* d) die Tagesordnung, 
+* e) den Wortlaut der Anträge und Beschlüsse, 
+* f) die Ergebnisse der Abstimmungen und Wahlen, bei namentlicher Abstimmung (§ 11 Abs. 5 Satz 2) ist die Entscheidung jedes Mitglieds des Gemeinderates in der Niederschrift zu vermerken, 
+* g) Vermerke darüber, welche Gemeinderatsmitglieder verspätet erschienen sind oder die Sitzung vorzeitig oder wegen Befangenheit vorübergehend verlassen haben, wobei ersichtlich sein muss, an welchen Abstimmungen oder Wahlen und aus welchem Grund die Betroffenen nicht teilgenommen haben, 
+* h) Anfragen der Mitglieder des Gemeinderates, 
+* i) die Angabe, ob die Beratung über die einzelnen Tagesordnungspunkte öffentlich oder nicht öffentlich stattgefunden hat, 
+* j) sonstige wesentliche Inhalte der Sitzung (insbesondere Einwohnerfragestunden, Ordnungsmaßnahmen). 
 
-(8) Zur Erledigung der Aufnahme der Niederschrift ist es dem Protokollführer gestattet, ausschließlich zu diesem Zweck Tonaufzeichnungen zu fertigen. Nach Fertigstellung, Unterzeichnung und Genehmigung der Niederschrift sind die Tonaufzeichnungen zu löschen.
+(3) Der Vorsitzende und jedes Mitglied des Gemeinderates können verlangen, dass ihre Erklärungen wörtlich in der Niederschrift festgehalten werden. Dies ist durch Wortmeldung anzuzeigen.
 
-###§17 Aufhebung der Beschlüsse des Gemeinderates
+(4) Die Niederschrift ist nach Unterzeichnung allen Mitgliedern des Gemeinderates unverzüglich, in der Regel innerhalb von 14 Tagen, nach der Sitzung schriftlich oder elektronisch zuzuleiten.
 
-(1) Die Aufhebung eines Beschlusses des Gemeinderates kann von einem Drittel der Anzahl der Mitglieder oder vom Bürgermeister beantragt werden.
+(5) Die Niederschrift über die in nicht öffentlicher Sitzung behandelten Tagesordnungspunkte ist gesondert zu protokollieren.
 
-(2) Wird ein solcher Antrag durch Beschluss des Gemeinderates abgelehnt, so kann ein entsprechender Antrag nicht vor Ablauf von 6 Monaten erneut gestellt werden.
+(6) Einwendungen gegen die Niederschrift sind dem Vorsitzenden schriftlich zuzuleiten. Der Gemeinderat entscheidet in seiner nächsten Sitzung, ob und in welcher Weise die Niederschrift zu berichtigen ist. Wird der Einwendung nicht entsprochen, so ist das Mitglied des Gemeinderates berechtigt, die Aufnahme einer entsprechenden Erklärung in die Niederschrift zu verlangen. Eine erneute Beratung oder eine sachliche Änderung der in der Niederschrift enthaltenen Beschlüsse findet nicht statt.
 
-(3) Ein Aufhebungsantrag ist unzulässig, soweit in Ausführung des Beschlusses des Gemeinderates bereits Rechte Dritter entstanden sind und diese Rechte auch für die Zukunft nicht mehr ohne unvertretbaren Aufwand abgelöst werden können.
+(7) Zur Erleichterung der Erstellung der Niederschrift ist es dem Protokollführer gestattet, Tonaufzeichnungen anzufertigen. Nach Fertigstellung, Unterzeichnung und Feststellung der Niederschrift sind Tonaufzeichnungen zu löschen. § 3 Abs. 4 bleibt unberührt.
 
-###§18 Ordnung und Sicherheit
+(8) Den Ortsbürgermeistern sowie den Ortschaftsräten, die dies wünschen, sind Kopien der Niederschrift zuzuleiten.
 
-(1) Der Ordnungsgewalt und dem Hausrecht des Vorsitzenden des Gemeinderates unterliegen alle Personen, die sich während einer Sitzung des Gemeinderates im Sitzungssaal aufhalten.
+(9) Den Einwohnern sind auf Antrag Kopien aus der Niederschrift, die nicht der Vertraulichkeit unterliegen gegen Kostenerstattung zu erstellen.
 
-(2) Entsteht während einer Sitzung des Gemeinderates unter den Zuhörern störende Unruhe, so kann der Vorsitzenden des Gemeinderates nach vorheriger Ankündigung den für die Zuhörer bestimmten Teil des Sitzungssaales räumen lassen, wenn die störende Unruhe auf andere Weise nicht zu beseitigen ist.
+###§15 Aufhebung der Beschlüsse des Gemeinderates
 
-(3) Der Vorsitzende des Gemeinderates kann einen Redner, der vom Gegenstand der Beratung abkommt, zur Sache verweisen. Auf diese Verpflichtung kann durch jeden Gemeinderat auf Zuruf hingewiesen werden.
+(1) Die Aufhebung oder Änderung eines Beschlusses des Gemeinderates kann von einem Drittel der Mitglieder oder vom Bürgermeister beantragt werden. Der Gemeinderat entscheidet hierüber frühestens in der nächsten Sitzung durch erneute Beschlussfassung. 
 
-(4) Redet Jemand, dem das Wort nicht erteilt wurde, so muss ihm das Wort sofort entzogen werden.
+(2) Ein nach Abs. 1 abgelehnter Antrag kann innerhalb von sechs Monaten nur dann erneut gestellt werden, wenn sich die Sach- und/oder Rechtslage wesentlich geändert hat. 
 
-(5) Einem Redner kann das Wort entzogen werden nach wiederholten Verstoß gegen Absatz 3 oder wenn er eine festgesetzte Redezeit überschreitet und er vom Vorsitzenden des Gemeinderates auf den Ablauf der Redezeit hingewiesen wurde. Dem Redner darf dann zu demselben Punkt in derselben Sitzung das Wort nicht wieder erteilt werden.
+(3) Ein Änderungs- oder Aufhebungsantrag ist unzulässig, soweit in Ausführung des Beschlusses des Gemeinderates bereits Rechtspositionen Dritter entstanden sind und diese nicht mehr aufgelöst werden können, weil dies mit vertretbarem Aufwand nicht möglich ist und/oder zu Schadenersatzansprüchen führen kann.
 
-(6) Der Vorsitzende des Gemeinderates kann eine Sitzung unterbrechen oder nach dreimaligem Aufruf schließen, wenn die nötige Ordnung und Ruhe nicht herzustellen ist.
+###§16 Ordnung in den Sitzungen
 
-(7) Der Vorsitzende kann ein Ratsmitglied bei ungebührlichem oder wiederholt ordnungswidrigem Verhalten von einer Sitzung ausschließen.
+(1) Der Vorsitzende sorgt für die Aufrechterhaltung der Ordnung in den Sitzungen und achtet auf die Einhaltung der Geschäftsordnung. Er übt das Hausrecht aus. 
 
-(5) Der Gemeinderat kann ein Ratsmitglied, das sich grober Ungebühr oder wiederholter Zuwiderhandlungen gegen die zur Aufrechterhaltung der Ordnung erlassenen Anordnung schuldig gemacht hat, auf bestimmte Zeit, höchstens auf sechs Monate, von der Mitarbeit im Gemeinderat und seinen Ausschüssen ausschließen.
+(2) Verstößt ein Mitglied des Gemeinderates gegen die Bestimmungen der Geschäftsordnung oder verletzt es die Würde der Versammlung oder äußert es sich ungebührlich, so kann es vom Vorsitzenden unter Nennung des Namens „zur Ordnung“ gerufen werden. Persönliche Angriffe und Beleidigungen sind vom Vorsitzenden zu rügen. Ist ein Mitglied in derselben Sitzung dreimal zur Ordnung gerufen und beim zweiten Mal auf die Folgen eines dritten Ordnungsrufes hingewiesen worden, so kann ihm der Vorsitzende das Wort entziehen. 
+
+(3) Entsprechendes gilt, wenn ein Mitglied vom Verhandlungsgegenstand abschweift und vom Vorsitzenden „zur Sache“ gerufen wurde. Ist einem Mitglied des Gemeinderates das Wort entzogen, so darf es zu diesem Punkt der Tagesordnung nicht mehr sprechen. 
+(4) Der Vorsitzende des Gemeinderates kann einem Redner, der die festgesetzte Redezeit überschreitet, das Wort entziehen, wenn er ihn bereits auf den Ablauf der Redezeit hingewiesen hat.
+
+(5) Der Vorsitzende des Gemeinderates kann ein Mitglied bei grob ungebührlichem oder wiederholt ordnungswidrigem Verhalten von der Sitzung ausschließen. Das Mitglied hat den Sitzungsraum zu verlassen.
+
+(6) Redet Jemand, dem das Wort nicht erteilt wurde, so muss ihm das Wort sofort entzogen werden.
+
+(7) Der Gemeinderat kann ein Mitglied, das wiederholt Zuwiderhandlungen gegen die zur Aufrechterhaltung der Ordnung erlassenen Anordnungen begangen hat, durch Beschluss für höchstens vier Sitzungen ausschließen. 
+
+(8) Wird die Ordnung in einer Sitzung gestört und gelingt es dem Vorsitzenden nicht, sie wieder herzustellen, so kann er die Sitzung unterbrechen. 
+
+(9) Der Vorsitzende des Gemeinderates kann eine Sitzung unterbrechen oder nach dreimaligem Aufruf schließen, wenn die nötige Ordnung und Ruhe nicht herzustellen ist.
+
+###§17 Ordnungsmaßnahmen gegenüber Zuhörern
+
+(1) Der Ordnungsgewalt und dem Hausrecht des Vorsitzenden des Gemeinderates unterliegen alle Personen, die sich während einer Sitzung des Gemeinderates im Sitzungsraum aufhalten. 
+
+(2) Wer als Zuhörer durch ungebührliches Verhalten die Sitzung stört oder Ordnung und Anstand verletzt, kann auf Anordnung des Vorsitzenden aus dem Sitzungsraum verwiesen und notfalls entfernt werden, wenn er durch den Vorsitzenden vorher mindestens ein Mal auf die Folgen seines Verhaltens hingewiesen wurde. Entsteht während einer Sitzung des Gemeinderates unter den Zuhörern störende Unruhe, die den Fortgang der Verhandlungen in Frage stellt, so kann der Vorsitzende des Gemeinderates nach vorheriger Ankündigung den für die Zuhörer bestimmten Teil des Sitzungsraumes räumen lassen, wenn die störende Unruhe auf andere Weise nicht zu beseitigen ist. 
+
+(3) Hat der Vorsitzende des Gemeinderates zu einer Sitzung vorsorglich Polizeischutz angefordert, so teilt er das zu Beginn der Sitzung dem Gemeinderat einschließlich der Gründe hierfür mit.
 
 ##II. Abschnitt Fraktionen
 
-###§19 Fraktionen
+###§18 Fraktionen
 
-(1) Die Mitgliedschaft in einer Fraktion schließt die Mitgliedschaft in einer zweiten Fraktion aus.
+(1) Die Fraktionen geben dem Vorsitzenden des Gemeinderates von ihrer Bildung und namentlichen Zusammensetzung unverzüglich schriftlich Kenntnis. Dabei ist auch mitzuteilen, wer Vorsitzender der Fraktion und dessen Stellvertreter ist. Der Zusammenschluss von Gemeinderäten zu Fraktionen wird mit der schriftlichen Mitteilung an den Vorsitzenden des Gemeinderates wirksam. Veränderungen sind dem Vorsitzenden unverzüglich mitzuteilen. 
 
-(2) Die Fraktionen müssen dem Bürgermeister oder Vorsitzenden des Gemeinderates ihre Bildung, Umbildung und Auflösung sowie ihre Zusammensetzung und Bezeichnung schriftlich anzeigen oder in einer Sitzung des Gemeinderates zu Protokoll geben. Dabei ist auch mitzuteilen, wer zum Vorsitzenden der Fraktion bestellt wurde. Der Zusammenschluss von Gemeinderäten wird mit schriftlicher Mitteilung oder zur Niederschrift an den Bürgermeister oder den Vorsitzenden des Gemeinderates wirksam.
+(2) Die Bezeichnung der Fraktionen richtet sich nach der Kurzbezeichnung der Parteien und Wählergruppen sowie dem Namen von Einzelbewerbern, aufgrund deren Wahlvorschlages die Fraktionsmitglieder in den Gemeinderat gewählt werden. Dabei darf jede Kurzbezeichnung einer Partei oder Wählergruppe im Gemeinderat nur einmal verwendet werden. Der Fraktionswechsel einzelner Gemeinderatsmitglieder lässt bestehende Fraktionsbezeichnungen unberührt. 
+
+(3) Ein Mitglied des Gemeinderates kann nicht mehreren Fraktionen angehören.
 
 ##III. Abschnitt Verfahren in den Auschüssen und in den Ortschaftsräten
 
-###§20 Verfahren in den Ausschüssen und in den Ortschaftsräten
-(1) Soweit durch Gesetz nichts Abweichendes bestimmt ist, finden für Ausschüsse des Gemeinderates und in den Ortschaftsräten die Bestimmungen dieser Geschäftsordnung entsprechende Anwendungen.
+###§19 Verfahren in den Ausschüssen und in den Ortschaftsräten
 
-(2) Einladungen zu Ausschüssen und den Ortschaftsräten sind allen Gemeinderäten bzw. Ortschaftsräten zeitgleich (in der Regel per E-Mail) zur Kenntnis zu geben.
+(1) Soweit durch Gesetz nichts Abweichendes bestimmt ist, finden für Ausschüsse des Gemeinderates und in den Ortschaftsräten die Bestimmungen dieser Geschäftsordnung entsprechende Anwendung.
 
-(3) Soweit die Vorlagen die Zuständigkeit des Gemeinderates betreffen, sind sie allen Gemeinderäten nachrichtlich zuzuleiten.
+(2) Die Tagesordnung zu den Sitzungen beschließender und beratender Ausschüsse sind allen Ausschussmitgliedern und zusätzlich den übrigen Mitgliedern des Gemeinderates elektronisch zuzuleiten.
 
-(4) In jeder Ausschusssitzung sind die Tagesordnungspunkte 
+(3) Die Tagesordnung zu den Ortschaftsratssitzungen sind allen Ortschaftsräten der betreffenden Ortschaft schriftlich zuzuleiten.
 
-* a) Mitteilung,
-* b) Beantwortung von Anfragen, 
-* c) Anregungen
+(4) Soweit die Vorlagen die Zuständigkeit des Gemeinderates betreffen, sind sie allen Gemeinderäten nachrichtlich zuzuleiten.
+
+(5) In jeder Ausschusssitzung sind die Tagesordnungspunkte
+
+* a)	Mitteilung,
+* b)	Beantwortung von Anfragen,
+* c)	Anregungen
+
 vorzusehen.
 
-(5) - Die Niederschrift der Ausschusssitzung ist allen Ausschussmitgliedern sowie auf Anforderung weiteren Ratsmitgliedern zuzuleiten. - Die Niederschrift der Ortschaftsratssitzung ist allen Ortschaftsratsmitgliedern sowie auf Anforderung weiteren Ratsmitgliedern zuzuleiten.
+(6) Die Niederschrift ist allen Ausschussmitgliedern sowie auf Anforderung weiteren Mitgliedern des Gemeinderates zuzuleiten.
+Die Niederschrift der Ortschaftsratsitzung ist allen Ortschaftsräten sowie auf Anforderung weiteren Mitgliedern des Gemeinderates zuzuleiten.
 
-(6) Mitglieder des Gemeinderates, die dem Ausschuss nicht angehören, aber einen Antrag gestellt haben, über den in der Ausschusssitzung beraten oder beschlossen wird, erhalten fristgerecht eine Einladung zu dieser Sitzung sowie die den Antrag betreffenden Sitzungsvorlagen.
+(7) Mitglieder des Gemeinderates, die dem Ausschuss nicht angehören, aber einen Antrag gestellt haben, über den in der Ausschusssitzung beraten oder beschlossen wird, erhalten fristgerecht eine Einladung zu dieser Sitzung sowie die den Antrag betreffenden Sitzungsunterlagen.
 
-(7) Die Ausschüsse können beschließen, zu einzelnen Punkten ihrer Tagesordnung in den Sitzungen Sachverständige und Einwohner zu hören. Diese haben beim nichtöffentlichen Teil der Sitzung den Sitzungsraum zu verlassen, bevor in der Angelegenheit diskutiert wird, zu der sie gehört werden sollen.
+(8) Die Ausschüsse können beschließen, zu einzelnen Punkten ihrer Tagesordnung in den Sitzungen Sachverständige und Einwohner zu hören. Diese haben beim nichtöffentlichen Teil der Sitzung den Sitzungsraum zu verlassen, bevor in der Angelegenheit diskutiert wird, zu der sie gehört werden sollen.
 
-(8) Berührt eine Angelegenheit das Arbeitsgebiet mehrerer Ausschüsse, so können diese zu gemeinsamen Sitzungen zusammentreten.
+(9) Der Antrag eines sachkundigen Einwohners in einem beratenden Ausschuss ist nur beachtlich, wenn er durch ein Ausschussmitglied, das dem Gemeinderat als ehrenamtliches Mitglied angehört, unterstützt wird.
 
-(9) Der Haupt- und Finanzausschuss bereitet die Beschlüsse des Gemeinderates vor; eine vorherige Beratung von Anträgen im Gemeinderat wird dadurch nicht ausgeschlossen.
+(10) Berührt eine Angelegenheit das Arbeitsgebiet mehrerer Ausschüsse, so können diese zu gemeinsamen Sitzungen zusammentreten.
 
-##IV. Abschnitt Unterrichtung der Öffentlichkeit und der Presse
+(11) Der Haupt- und Finanzausschuss bereitet die Beschlüsse des Gemeinderates vor; eine vorherige Beratung von Anträgen im Gemeinderat wird dadurch nicht ausgeschlossen.
 
-###§21 Unterrichtung der Öffentlichkeit und der Presse
-(1) Die Öffentlichkeit und die Presse sind über die Tagesordnung der Sitzung des Gemeinderates sowie über den wesentlichen Inhalt der von ihm gefassten Beschlüsse zu unterrichten.
+##IV. Abschnitt Unterrichtung der Öffentlichkeit und der Presse
 
-(2) Für die Unterrichtung ist der Bürgermeister zuständig.
+###§20 Unterrichtung der Öffentlichkeit und der Presse
 
-(3) Für die beratenden Ausschüsse des Gemeinderates gelten die Absätze 1 und 2 entsprechend.
+Öffentlichkeit und Presse werden vom Bürgermeister über die Tagesordnung der Sitzungen des Gemeinderates und seiner Ausschüsse sowie über den wesentlichen Inhalt der gefassten Beschlüsse unterrichtet.
 
 ##V. Abschnitt Schlussvorschriften, Inkrafttreten
 
-###§22 Auslegung der Geschäftsordnung
+###§21 Auslegung der Geschäftsordnung
 
-Bei Zweifeln über Auslegung und Anwendung der Geschäftsordnung entscheidet der Vorsitzende des Gemeinderates. Erhebt sich gegen seine Entscheidung Widerspruch. so entscheidet der Gemeinderat mit einfacher Mehrheit.
+Bei Zweifeln über Auslegung und Anwendung der Geschäftsordnung entscheidet der Vorsitzende des Gemeinderates. Erhebt sich gegen seine Entscheidung Widerspruch. so entscheidet der Gemeinderat mit einfacher Mehrheit.
 
-###§23 Abweichungen von der Geschäftsordnung
+###§22 Abweichungen von der Geschäftsordnung
 
-Von den Vorschriften dieser Geschäftsordnung kann nur im Einzelfall und nur dann abgewichen werden, wenn gesetzliche Bestimmungen nicht entgegenstehen und kein Mitglied des Gemeinderates widerspricht.
+Bei Zweifeln über Auslegung und Anwendung der Geschäftsordnung entscheidet der Vorsitzende des Gemeinderates. Erhebt sich gegen seine Entscheidung Widerspruch, so entscheidet der Gemeinderat mit der Mehrheit der auf „ja“ oder „nein“ lautenden Stimmen. Bei Stimmengleichheit ist der Widerspruch zurückgewiesen.
 
-###§24 Sprachliche Gleichstellung
-Personen- und Funktionsbezeichnungen gelten jeweils in weiblicher und männlicher Form.
+###§23 Sprachliche Gleichstellung
 
-###§25 Inkrafttreten
+Personen- und Funktionsbezeichnungen gelten jeweils in weiblicher und männlicher Form.
 
-Die Geschäftsordnung tritt mit Wirkung vom 26.01.2010 in Kraft.
-Möser, den 27.01.2010
+###§24 Inkrafttreten
 
-B. Köppen Bürgermeister
+(1) Die Geschäftsordnung tritt mit Wirkung vom 01. Juli 2014 in Kraft.
+
+(2) Gleichzeitig tritt die Geschäftsordnung vom 27.01.2010 außer Kraft.
+
+Möser, den 01.07.2014
+
+gez. Köppen
+Bürgermeister
+
